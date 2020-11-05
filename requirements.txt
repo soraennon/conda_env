@@ -6,3 +6,8 @@ plyfile
 pyyaml
 sklearn
 tqdm
+
+opencv-python
+opencv-contrib-python
+pypng
+cupy-cuda101
